@@ -1,1 +1,0 @@
-print('for_folder')
